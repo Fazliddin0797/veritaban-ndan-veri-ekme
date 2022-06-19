@@ -1,0 +1,103 @@
+.container{
+    background: url(kule1.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container .cont{
+    width: 100%;
+    height: 80px;
+    background: rgba(22, 112, 214, 0.4);
+
+    
+}
+.cont .TURKUY p{
+    
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #42340d;
+}
+.cont ul{
+    float: right;
+    margin-right: 20px;
+}
+.cont .TURKUY{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 35px;
+
+}
+.cont ul li{
+    list-style: none;
+    display:inline-block;
+    margin: 0 15px;
+    font-size: 27px;
+}
+.cerceve li{
+    list-style: none;
+    display: inline-block;
+    border: 3px hidden #fff ;
+}
+.cerceve li p{
+    font-size: 15px;
+}
+.tablo{
+    border: 3px dotted #fff;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(165, 215, 235);
+}
+.tablolist{
+    border: 3px dotted #fff;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(223, 226, 240);
+}
+
+.tablosil{
+    border: 3px dotted #fff;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(128, 130, 136);
+}
+.tabloguncel{
+    border: 3px dotted #fff;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(128, 130, 136);
+}
+.tablogin{
+    border: 3px dotted #fff;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(233, 241, 247);
+}
+.tabkaydet{
+    border: 3px dotted #fff;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(168, 213, 248);
+}
