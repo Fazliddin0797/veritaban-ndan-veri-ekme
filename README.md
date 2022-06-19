@@ -1,0 +1,1 @@
+# veritaban-ndan-veri-ekme
